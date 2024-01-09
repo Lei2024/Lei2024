@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Leihani!
+- I'm interested in drawing and crocheting
+- I'm currently learning how to code in different languages
+- I'm originally from Oahu
+- I'm a Sophomore in Computer Engineering
+- I chose my major to explore how computers function
+- A fun fact about me is: I play the flute for the UH Manoa band
+- What do I want to learn from EE 205? I want to learn how object-oriented programming is helpful in real case scenarios
+- A book that I'd recommend is: Ash Princess written by Laura Sebastian
 
 <!--
 **Lei2024/Lei2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
